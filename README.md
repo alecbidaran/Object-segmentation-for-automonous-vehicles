@@ -1,5 +1,5 @@
-# Object-segmentation-for-automonous-vehicles
-This repository provided several Unet architectures to segment objects in street and road for autonomous vehicles applications
+# Object-segmentation-for-autonomos-vehicles
+This repository provided several Unet architectures to segment objects in streets and roads for autonomous vehicle applications.
 
 ![My Image](VGG_Unet.png)
 ![My Image](download.png)
